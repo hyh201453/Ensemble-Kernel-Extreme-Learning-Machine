@@ -7,9 +7,9 @@ Steps:
 
 2.Extract the files to the "example_data" directory.
 
-3.Change data acquisition parameters for feature extraction in the ‘Main_Script.m’.
+3.Change data acquisition parameters for feature extraction in the "Main_Script.m".
 
-4.Change the dimensionality reduction parameters and algorithm parameters in the ‘Main_Script.m’ as required.
+4.Change the dimensionality reduction parameters and algorithm parameters in the "Main_Script.m" as required.
 
 5.Run "Main_Script.m".
 
